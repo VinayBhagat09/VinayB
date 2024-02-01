@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **bvinay305@gmail.com**
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/vinay-bhagat-89143a171/</h3>
+
 <p align="left">
 </p>
 
