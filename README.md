@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinay Bhagat</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Dotnet,Azure Cloud Projects**
 
